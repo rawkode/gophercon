@@ -1,0 +1,4 @@
+config:
+  gcon:apiDomain: localhost
+  gcon:apiPort: "8080"
+  gcon:minScale: "1"
