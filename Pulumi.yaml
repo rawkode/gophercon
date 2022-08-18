@@ -1,3 +1,3 @@
-name: gophercon
-runtime: nodejs
-description: A minimal Kubernetes TypeScript Pulumi program
+name: gcon
+runtime: go
+description: A minimal Kubernetes Go Pulumi program
